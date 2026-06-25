@@ -2,7 +2,7 @@
 
 A mathematical pattern visualiser hosted on GitHub Pages.
 
-**Live site:** `https://<your-username>.github.io/<repo-name>/`
+**Live site:** `https://jackosnhcnz.github.io/knightspiral/`
 
 ## How the pattern works
 
